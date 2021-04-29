@@ -1,0 +1,7 @@
+make a data directory, with your html/css/etc
+
+use this tool to make the files and put them in the correct places, run the tool from this directory with this command.
+
+python prepare_static_ui_sources.py -s ../../../data -t ..
+
+That's it.
