@@ -102,6 +102,7 @@ uint8_t Setspeed(int16_t Vtx, int16_t Vty, int16_t Wt)
     speed_buff[1] = Vty + Vtx + Wt;
     speed_buff[3] = Vty - Vtx + Wt;
     speed_buff[2] = Vty + Vtx - Wt;
+    Serial.print(speed_buff[0]); Serial.print(" "); Serial.println(speed_buff[1]);
 
 }  
 
