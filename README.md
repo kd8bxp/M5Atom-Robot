@@ -11,6 +11,7 @@ Sketches:
 ATOM_Motion - this is the sketch provided by M5Stack to test the ATOM Motion  
 ATOM_Motion_WebRemote - Setup an access point, connect to it, goto 192.168.4.1 and do some basic control of your robot. Forward, Back, Spin Left, Spin Right  
 ATOM_Motion_WiFiRemote - Same as above, but connects to your router, you will need to get the IP address assigned to your ATOM and put that in the sketch for this to work.  It's a little buggie, but mostly works like this. (Unstable, random resets - This is low priority for me)  
+mqttBot - added Oct 24, 2023 - video https://diode.zone/w/3yqNujAgKCRCF7iFq7zE7S  
 
 JoyC Remote Robot:
 
