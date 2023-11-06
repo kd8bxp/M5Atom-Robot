@@ -1,0 +1,20 @@
+Go forward	22
+Retreat	23
+Stop oscillating	81
+Stop playing	93
+Reset	82
+Volume up	97
+Volume down	98
+
+Turn left ninety degrees	25	Turn left forty-five degrees	26	Turn left thirty degrees	27
+
+Turn right forty-five degrees	29	Turn right thirty degrees	30
+
+stop  5
+left 6
+right 7
+backup 8
+speed up
+slow down
+
+
